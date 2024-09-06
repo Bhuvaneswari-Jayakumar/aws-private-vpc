@@ -35,11 +35,10 @@ This project demonstrates the deployment of a simple Python HTTP server in a pri
 - Gained a foundational understanding of AWS VPCs, subnets, and network security.
 - Enhanced knowledge of AWS Auto Scaling and traffic management using ALB.
 
-## Conclusiongit push origin main
+## Conclusion git push origin main
 git push origin main
 
-This project provided hands-on experience with deploying and managing a Python server in a cloud environment, leveraging AWS features for sca
-lability and security.
+This project provided hands-on experience with deploying and managing a Python server in a cloud environment, leveraging AWS features for scalability and security.
 
 ## Contact Information
 For any questions or further discussion, please contact me at [bhuvaneswarijayakumar475@gmail.com](mailto:bhuvaneswarijayakumar475@gmail.com).
